@@ -1,2 +1,2 @@
 # python_tutorial
-phython 입문
+phython 데이터타입, 제어문, 함수 등 연습
